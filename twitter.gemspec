@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'equalizer', '~> 0.0.11'
   spec.add_dependency 'http', '~> 4.0'
   spec.add_dependency 'http-form_data', '~> 2.0'
-  spec.add_dependency 'http_parser.rb', '~> 0.6.1', git: "https://github.com/tmm1/http_parser.rb/tree/v0.6.1"
+  spec.add_dependency 'http_parser.rb', '~> 0.7.0'
   spec.add_dependency 'memoizable', '~> 0.4.0'
   spec.add_dependency 'multipart-post', '~> 2.0'
   spec.add_dependency 'naught', '~> 1.0'
